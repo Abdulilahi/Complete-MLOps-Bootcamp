@@ -4,3 +4,7 @@ pandas
 matplotlib
 seaborn
 flask
+mlflow
+tensorflow
+keras
+scikit-learn
