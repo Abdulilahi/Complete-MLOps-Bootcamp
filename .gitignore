@@ -1,2 +1,16 @@
+# MLflow artifacts
+mlartifacts/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
 .env
-myenv/
+
+# IDE
+.vscode/
+
+# db
+*.db
